@@ -1,0 +1,2 @@
+git+https://github.com/httplib2/httplib2#egg=httplib2
+git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py
